@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST105: Customer Service"
+course_description: "This course provides a solid foundation in the areas of computer skills, business communications, and best practices in customer service."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Customer Service Career** <span id="4"></span> 
 *A customer service position might only require a high school diploma,
 along with solid communication and problem-solving skills. On-the-job

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST105: Customer Service"
+course_description: "This course provides a solid foundation in the areas of computer skills, business communications, and best practices in customer service."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Customer Service Duties** <span id="2"></span> 
 *Customer service workers might be assigned to workstations equipped
 with a telephone, headset, and computer. Alternately, other customer

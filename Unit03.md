@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST105: Customer Service"
+course_description: "This course provides a solid foundation in the areas of computer skills, business communications, and best practices in customer service."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Customer Service Skillsets** <span id="3"></span> 
 *A variety of tools and technologies may be employed by customer service
 workers to attempt to discern customers’ needs and concerns. Since the

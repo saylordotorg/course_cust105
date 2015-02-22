@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST105: Customer Service"
+course_description: "This course provides a solid foundation in the areas of computer skills, business communications, and best practices in customer service."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Customer Service Certification** <span id="5"></span> 
 *Once you have completed the tasks in this final unit and passed your
 final exam for this capstone course, and have completed the other

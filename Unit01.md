@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CUST105: Customer Service"
+course_description: "This course provides a solid foundation in the areas of computer skills, business communications, and best practices in customer service."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Customer Service Workplace** <span id="1"></span> 
 *The fundamental duties of a Customer Service Worker (CSW) are to answer
 questions and resolve problems. Success in this regard depends on the
